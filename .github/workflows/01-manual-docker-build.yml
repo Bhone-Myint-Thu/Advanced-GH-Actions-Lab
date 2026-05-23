@@ -1,4 +1,4 @@
-name: Manual Docker Build
+name: Manual Docker Build and Push To Aws ECR
 
 on:
   workflow_dispatch:
