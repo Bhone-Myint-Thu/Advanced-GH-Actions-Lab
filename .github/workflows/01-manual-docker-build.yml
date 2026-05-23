@@ -20,7 +20,7 @@ on:
 
 env:
   AWS_REGION: ap-southeast-1
-  ECR_REPOSITORY_URI: 950538586666.dkr.ecr.ap-southeast-1.amazonaws.com/bhonemyintthu/githubactions_lab
+  ECR_REPOSITORY_URI: 950538586666.dkr.ecr.ap-southeast-1.amazonaws.com/bhonemyintthu/advanced_gh_actions_lab_images
   IMAGE_TAG: ${{ github.sha }}
 
 jobs:
